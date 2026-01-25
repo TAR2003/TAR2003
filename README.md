@@ -1,21 +1,5 @@
 # 👋 Hi, I'm Tawkir Aziz Rahman
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tawkir-aziz-rahman&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tawkir-aziz-rahman?label=Followers&style=flat-square&color=blue" alt="Followers" />
-</p>
-
----
-
-### 📈 My GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tawkir-aziz-rahman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tawkir-aziz-rahman&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawkir-aziz-rahman&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
 
 🎓 **Computer Science & Engineering Undergraduate @ BUET**  
 💻 **Full-Stack Developer | Secure Systems & Cryptography Enthusiast**  
