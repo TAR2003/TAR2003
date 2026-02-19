@@ -53,20 +53,8 @@
 
 ---
 
-## 👨‍💼 Leadership
 
-- **Vice Chair (Graphics)** — IEEE Computer Society, BUET (2025–26)  
-- **Assistant General Secretary (Activity)** — IEEE CS BUET (2024–25)  
-- **Director, Graphics & Design** — BUET Cyber Security Club (2025–26)
 
----
-
-## 🌐 Connect
-
-- 🌍 Website: https://tawkir-aziz-rahman.netlify.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/tawkir-aziz-rahman-6a449a330/  
-- 🐦 X (Twitter): https://x.com/tawkir2003  
-- 📫 Email: tawkir2003@gmail.com  
 
 ---
 
